@@ -131,7 +131,7 @@ API             → Controllers y configuración de la aplicación
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/LEBrieva/n5-challenge.git
 cd n5_test
 ```
 
